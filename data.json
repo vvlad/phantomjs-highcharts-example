@@ -1,0 +1,16 @@
+var tests = {
+
+  "test-name-1" : {
+    "read.iops" : 100,
+    "write.iops" : 200,
+    "read.bw" : 1024,
+    "write.bw" : 1024
+  },
+  "test-name-2" : {
+    "read.iops" : 100,
+    "write.iops" : 200,
+    "read.bw" : 1024,
+    "write.bw" : 1024
+  }
+
+};
